@@ -1,0 +1,3 @@
+downloader=wget
+color=cyan
+defdir=Downloads/MicroDM/

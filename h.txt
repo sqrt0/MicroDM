@@ -1,0 +1,10 @@
+**Development by sqrt**
+
+
+Options:
+        -s      for set start time download (hh:mm format)
+        -e      for set end time download (hh:mm format)
+        -l      for input link (input your link in "")
+        -d      for set directory of save file
+        -c      for configure download manager
+        -v      for view vesion
